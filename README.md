@@ -10,6 +10,4 @@ A machine learning web application built with Streamlit to predict cardiovascula
 * **Python**, **Streamlit**, **Scikit-Learn**, **Pandas**, **Plotly**
 
 ## 💻 Running Locally
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/rs6079288/Cardio-Risk-Predictor.git](https://github.com/rs6079288/Cardio-Risk-Predictor.git)
+git clone https://github.com/rs6079288/Cardio-Risk-Predictor.git
